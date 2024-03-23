@@ -1,0 +1,25 @@
+.mi-carousel-img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.mi-card {
+  flex: 1 1 200px;
+  max-width: 400px;
+  /*display: flex;
+      flex-direction: column;
+      justify-content: space-between;*/
+}
+
+footer a {
+  color: inherit;
+}
+
+footer a:hover{
+  background-color: rgb(219, 189, 21)
+}
+
+
+
+
+
